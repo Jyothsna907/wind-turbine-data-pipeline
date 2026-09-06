@@ -234,12 +234,4 @@ I would keep the transformation functions but change the ingestion/storage/opera
 9. CI/CD: linting, unit tests, integration tests and deployment promotion between environments.
 10. Monitoring: input file count, duplicate count, missing-hour count, imputation rate, anomaly count, row counts, processing latency and failed records.
 
----
 
-## 10. AI usage
-
-If asked, be transparent. A suitable statement is:
-
-> I used a generative-AI assistant to accelerate some project scaffolding, review edge cases and help draft test/documentation structure. I made and validated the design choices myself, particularly the distinction between sensor outlier cleaning and turbine performance anomalies, the imputation strategy, and the productionisation approach. I also walked through the code so I could explain and modify every transformation in the interview.
-
-Do not claim that no AI was used if it was used. The important point in the interview is being able to explain, challenge and change the code yourself.
