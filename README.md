@@ -96,9 +96,9 @@ wind_turbine_assessment/
 │   ├── data_group_1.csv
 │   ├── data_group_2.csv
 │   └── data_group_3.csv
-docs/
-├── DATA_PROFILE.md
-└── reference_daily_summary.csv
+├── docs/
+│   ├── DATA_PROFILE.md
+│   └── reference_daily_summary.csv
 ├── scripts/
 │   └── make_dirty_sample.py
 ├── tests/
